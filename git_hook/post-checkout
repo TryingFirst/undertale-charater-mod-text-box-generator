@@ -1,4 +1,3 @@
-
 workon undertale
 python -m rcssmin <src/static/css/main.css >src/static/css/main.min.css
 slimit src/static/js/elm.js >src/static/js/elm.min.js
